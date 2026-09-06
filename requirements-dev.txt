@@ -1,0 +1,4 @@
+pytest>=8,<9
+colcon-common-extensions>=0.3,<1
+lark>=1,<2
+EmPy==3.3.4
