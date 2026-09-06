@@ -1,8 +1,9 @@
 # ares_2027sim
 
 `ares_2027sim` 是面向 ABU Robocon 2027 比赛的独立 ROS 2 Jazzy 仿真包，
-使用 Gazebo Harmonic 构建比赛场地、物理环境和后续机器人仿真。项目不依赖现有的
-`manipulator` 项目。
+使用 Gazebo Harmonic 构建比赛场地、物理环境和后续机器人仿真。
+
+![场地](img/field.png)
 
 ## 当前实现
 
